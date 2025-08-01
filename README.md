@@ -2,6 +2,19 @@
 
 Welcome to the **WhatsApp Chat Analyzer**, a Streamlit-based web application that analyzes WhatsApp chat exports to uncover fascinating insights about your conversations! 🚀 This tool provides detailed statistics, visualizations, and patterns from your chats, such as message counts, word usage, media sharing, emoji trends, and more. Perfect for individuals or groups curious about their chat dynamics! 😄
 
+## 📸 Preview
+
+![Preview]("Previews/preview-1.png")
+![Preview]("Previews/preview-2.png")
+![Preview]("Previews/preview-3.png")
+![Preview]("Previews/preview-4.png")
+![Preview]("Previews/preview-5.png")
+![Preview]("Previews/preview-6.png")
+![Preview]("Previews/preview-7.png")
+![Preview]("Previews/preview-8.png")
+![Preview]("Previews/preview-9.png")
+![Preview]("Previews/preview-10.png")
+
 ## Features ✨
 
 - 📊 **Top Statistics**: View total messages, words, media shared, and links exchanged for a selected user or the entire group.
