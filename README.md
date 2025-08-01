@@ -4,16 +4,16 @@ Welcome to the **WhatsApp Chat Analyzer**, a Streamlit-based web application tha
 
 ## 📸 Preview
 
-![Preview]("Previews/preview-1.png")
-![Preview]("Previews/preview-2.png")
-![Preview]("Previews/preview-3.png")
-![Preview]("Previews/preview-4.png")
-![Preview]("Previews/preview-5.png")
-![Preview]("Previews/preview-6.png")
-![Preview]("Previews/preview-7.png")
-![Preview]("Previews/preview-8.png")
-![Preview]("Previews/preview-9.png")
-![Preview]("Previews/preview-10.png")
+![Whatsapp Chat Analyzer](https://github.com/pri-ya-singh/Whatsapp-Chat-Analyzer/blob/main/Previews/preview-1.png)
+![Whatsapp Chat Analyzer](https://github.com/pri-ya-singh/Whatsapp-Chat-Analyzer/blob/main/Previews/preview-2.png)
+![Whatsapp Chat Analyzer](https://github.com/pri-ya-singh/Whatsapp-Chat-Analyzer/blob/main/Previews/preview-3.png)
+![Whatsapp Chat Analyzer](https://github.com/pri-ya-singh/Whatsapp-Chat-Analyzer/blob/main/Previews/preview-4.png)
+![Whatsapp Chat Analyzer](https://github.com/pri-ya-singh/Whatsapp-Chat-Analyzer/blob/main/Previews/preview-5.png)
+![Whatsapp Chat Analyzer](https://github.com/pri-ya-singh/Whatsapp-Chat-Analyzer/blob/main/Previews/preview-6.png)
+![Whatsapp Chat Analyzer](https://github.com/pri-ya-singh/Whatsapp-Chat-Analyzer/blob/main/Previews/preview-7.png)
+![Whatsapp Chat Analyzer](https://github.com/pri-ya-singh/Whatsapp-Chat-Analyzer/blob/main/Previews/preview-8.png)
+![Whatsapp Chat Analyzer](https://github.com/pri-ya-singh/Whatsapp-Chat-Analyzer/blob/main/Previews/preview-9.png)
+![Whatsapp Chat Analyzer](https://github.com/pri-ya-singh/Whatsapp-Chat-Analyzer/blob/main/Previews/preview-10.png)
 
 ## Features ✨
 
